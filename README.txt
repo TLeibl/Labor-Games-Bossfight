@@ -1,11 +1,8 @@
 PROJEKTNAME: Soulslike Bossfight
 
 TEAMMITGLIEDER
-- Tabea Leibl [204105]
-- Karen Hofele [204029]
-
-PROJEKTLINK - GITHUB
-https://github.com/khofele/Labor-Games-Bossfight
+- Tabea Leibl 
+- Karen Hofele
 
 PROJEKTLINK - BUILD + CODE
 https://studhsheilbronnde-my.sharepoint.com/:f:/g/personal/khofele_stud_hs-heilbronn_de/EvZwWWL8N2RAlgb_lkZ4BWUBqOqxd-4QSDtfAYqyBIlVFg?e=iLkeql
